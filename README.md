@@ -27,3 +27,4 @@
 |6              |[Анализ бизнес-показателей приложения](https://github.com/artemidameIT/data_analyst_yp/blob/main/Business_indicators_App/Business_indicators_App.ipynb)|Помочь маркетологам оптимизировать маркетинговые затраты|
 |7              |[Принятие решений в бизнесе](https://github.com/artemidameIT/data_analyst_yp/blob/main/AB_test/AB_test.ipynb)|Приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты|
 |8             |[Сборный проект 2. Исследование мобильного приложения по продаже продуктов питания](https://github.com/artemidameIT/data_analyst_yp/blob/main/Project2_Food_market/Project2_Food_market.ipynb)|Разобраться, как ведут себя пользователи мобильного приложения|
+|8             |[Анализ рынка заведений общественного питания Москвы](https://github.com/artemidameIT/data_analyst_yp/blob/main/Catering/Catering.ipynb)|Исследование рынка общественного питания на основе открытых данных, подготовка презентации|
